@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a45e692febfe3814ab55255e27c868319ba74111ca20238364d31f7b3c13585e
-size 6
+CNAME
+.github/workflows/main.yml
+.gitattributes
+.gitignore
